@@ -7,6 +7,8 @@ Dominique Mahoner
 
 Hannah Schaeffer
 
+& Colby
+
 # Overview
 This project is a bowling performance improvement system that helps users optimize their game by providing advice on how to improve their score. The system takes three input parameters from the user: throw speed, throw angle, and last round score. Based on these inputs, the system predicts the score the user should have achieved, and then suggests adjustments to these parameters (speed and angle) to help the user improve their performance.
 
