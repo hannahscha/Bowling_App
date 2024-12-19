@@ -5,4 +5,4 @@ scikit-learn
 scikit-optimize
 openai
 numpy
-dotenv
+python-dotenv
